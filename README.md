@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Link malaria sick people with number of doctors
 *Mathieu Guarino*
 
 *[Iron Hack, DataAnalyze & 14/04/2021]*
@@ -62,6 +62,5 @@ How did you organize yourself? Did you use any tools?
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
 [Repository](https://github.com/screamzz/DataSets-SQL-API/)  
-[Presentation](./Ironhack Data Projet Mathieu Guarino.pdf)
 [Trello](https://trello.com/b/9HULHhAJ/iron-hack)  
 

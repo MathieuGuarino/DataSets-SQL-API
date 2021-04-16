@@ -62,6 +62,6 @@ How did you organize yourself? Did you use any tools?
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
 [Repository](https://github.com/screamzz/DataSets-SQL-API/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Presentation](./Ironhack Data Projet Mathieu Guarino.pdf)
+[Trello](https://trello.com/b/9HULHhAJ/iron-hack)  
 
